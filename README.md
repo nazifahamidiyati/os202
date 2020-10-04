@@ -1,7 +1,7 @@
 ---
 ---
 
-[GitHub](https://github.com/cbkadal/os202/)
+[GitHub](https://github.com/nazifahamidiyati/os202/)
 [My Log](TXT/mylog.txt)
 
 <br>
