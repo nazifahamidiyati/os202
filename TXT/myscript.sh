@@ -20,4 +20,3 @@ gpg --verify $SHA.asc $SHA
 
 exit 0
 
-# Mon Sep 28 21:05:04 WIB 2020
