@@ -1,9 +1,10 @@
 #!/bin/bash
 # Nazifa Hamidiyati
 
-FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
+FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
+echo "rm -f $SHA $SHA.asc"
 rm -f $SHA $SHA.asc
 
 echo "sha256sum $FILES > $SHA"
@@ -19,4 +20,3 @@ echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
 
 exit 0
-
