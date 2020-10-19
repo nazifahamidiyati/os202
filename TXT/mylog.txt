@@ -16,7 +16,8 @@ ZCZC W01  15 L23 discussioo
 ZCZC W04  60 L03 Github Relate
 ZCZC W04  15 L11 Assigment #1
 ZCZC W04  15 L12 Assigment #2
-ZCZC W04  60 L13 Assigment #3
+ZCZC W04  60 L13 Assigment #3 
+ZCZC W04 100 L14 Assigment #4
 ZCZC W04  30 L15 Assigment #5
 ZCZC W04  60 L16 Assigment #6
 ZCZC W04  15 L17 Assigment #7
