@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nazifahamidiyati 1504-5724
+=======
+
+>>>>>>> 6496be9fbb0d60a0f12da15c975fbbde914416d4
