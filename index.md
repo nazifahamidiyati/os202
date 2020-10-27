@@ -5,6 +5,7 @@
 <[About](README.md)>
 <[GitHub](https://github.com/nazifahamidiyati/os202/)>
 <[My Log](TXT/mylog.txt)>
+<[My Rank](TXT/myrank.txt)>
 <br>
 <hr>
 ## Operating Systems Weekly Top Ten List
