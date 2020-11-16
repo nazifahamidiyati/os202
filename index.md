@@ -2,9 +2,11 @@
 ---
 # My name is Nazifa Hamidiyati
 
-<[About](README.md)>
-<[GitHub](https://github.com/nazifahamidiyati/os202/)>
+<[About Me](README.md)>
+<[My GitHub](https://github.com/nazifahamidiyati/os202/)>
 <[My Log](TXT/mylog.txt)>
+<[My Rank](TXT/myrank.txt)>
+<[My PubKey](TXT/mypubkey.txt)>
 <br>
 <hr>
 ## Operating Systems Weekly Top Ten List
