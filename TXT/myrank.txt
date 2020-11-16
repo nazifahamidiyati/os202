@@ -14,3 +14,6 @@ ZCZC W03 nyomangedar
 ZCZC W04 raihanarmon
 ZCZC W04 haskucy
 ZCZC W04 saridss
+ZCZC W05 primogu
+ZCZC W05 hazlazuardi
+ZCZC W05 mhanif
