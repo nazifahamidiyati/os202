@@ -41,3 +41,31 @@ ZCZC W05  60 L23 Discussion
 ZCZC W05  30 L03 GitHub Related
 ZCZC W05  30 L04 GitHub Pages Related
 ZCZC W05  10 L09 AsDos: Asking
+ZCZC W06 120 L02 ZOOM
+ZCZC W06 100 L11 Assignment #1
+ZCZC W06  15 L12 Assignment #2
+ZCZC W06  30 L13 Assignment #3
+ZCZC W06  80 L14 Assignment #4
+ZCZC W06  45 L15 Assignment #5
+ZCZC W06 120 L16 Assignment #6
+ZCZC W06  15 L17 Assignment #7
+ZCZC W06  15 L18 Assignment #8
+ZCZC W06  15 L19 Assignment #9
+ZCZC W06  45 L20 Assignment #10
+ZCZC W06  60 L23 Discussion
+ZCZC W06  60 L03 Github Related
+ZCZC W07 120 L02 ZOOM
+ZCZC W07  45 L11 Assignment #1
+ZCZC W07 180 L12 Assignment #2
+ZCZC W07  30 L13 Assignment #3
+ZCZC W07  60 L14 Assignment #4
+ZCZC W07 120 L15 Assignment #5
+ZCZC W07  45 L16 Assignment #6
+ZCZC W07  30 L17 Assignment #7
+ZCZC W07  20 L18 Assignment #8
+ZCZC W07  20 L19 Assignment #9
+ZCZC W07  30 L20 Assignment #10
+ZCZC W07  30 L21 Assignment #11
+ZCZC W07  30 L22 Assignment #12
+ZCZC W07  90 L23 Discussion
+ZCZC W07  60 L03 Github Related
